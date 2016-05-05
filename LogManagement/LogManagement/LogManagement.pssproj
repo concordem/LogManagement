@@ -31,6 +31,8 @@
     <Compile Include="LogManagement.psd1" />
     <Compile Include="LogManagement.psm1" />
     <Compile Include="LogManagement.tests.ps1" />
+    <Compile Include="Settings.xml" />
+    <Compile Include="Settings.xml.sample" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
