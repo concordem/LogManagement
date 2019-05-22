@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Settings>
+  <Emails>
+    <Email>
+      <From></From>
+      <To></To>
+      <Subject></Subject>
+      <Smtp></Smtp>
+      <SmtpUsername></SmtpUsername>
+      <SmtpPassword></SmtpPassword>
+      <SmtpSSL></SmtpSSL>
+      <SmtpPort></SmtpPort>
+    </Email>
+    <Email>
+      <From></From>
+      <To></To>
+      <Subject></Subject>
+      <Smtp></Smtp>
+      <SmtpUsername></SmtpUsername>
+      <SmtpPassword></SmtpPassword>
+      <SmtpSSL></SmtpSSL>
+      <SmtpPort></SmtpPort>
+    </Email>
+  </Emails>
+</Settings>
